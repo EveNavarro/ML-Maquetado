@@ -6,7 +6,7 @@ MÓDULO 4: Anatomía de un sitio web
 
 [MercadoLiebre 2 - Estilos](https://github.com/EveNavarro/mercadoLiebre2-Estilos)
 
-[MercadoLiebre 3 - Diseño Adaptativo](https://github.com/EveNavarro/mercadoLibre-Flexbox)
+[MercadoLiebre 3 - Diseño Adaptativo](https://github.com/EveNavarro/mercadoLiebre3-Adaptativo)
 
 ## Preview del desafío finalizado
 
